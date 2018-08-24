@@ -47,7 +47,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.DistanceUnit;
 import java.util.Locale;
 
 /*
- *Version 1.0
+ *Version 0.1.0
 
  * This is an example LinearOpMode that shows how to use
  * the REV Robotics Color-Distance Sensor.
